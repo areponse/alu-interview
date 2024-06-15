@@ -35,3 +35,4 @@ def pascal_triangle(n):
 
     # Return the complete triangle
     return triangle
+    
